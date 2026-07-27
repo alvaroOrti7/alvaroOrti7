@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Encabezado con la imagen visual -->
   <a href="https://github.com/alvaroOrti7">
-    <img src="https://raw.githubusercontent.com/alvaroOrti7/alvaroOrti7/main/tech-ecosystem-header.png" alt="Mi Ecosistema Tech Visualizado" width="1000" />
+    <img src="https://github.com/user-attachments/assets/33eb7c2a-6874-45e9-bd9a-f2abbf7c015b" alt="Mi Ecosistema Tech Visualizado" width="1000" />
   </a>
   
   <h2>¡Hola! Soy alvaroOrti7 👋</h2>
