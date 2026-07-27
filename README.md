@@ -43,15 +43,6 @@
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvaroOrti7&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroOrti7&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</div>
-
----
-
 ### 📫 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lvaro-ort%C3%AD-segovia/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1Rf%2F0HxNQFqs3Ek%2FL%2BcZgg%3D%3D)
