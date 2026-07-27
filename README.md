@@ -1,20 +1,21 @@
 <div align="center">
   <!-- Encabezado con la imagen visual -->
   <a href="https://github.com/alvaroOrti7">
-    <img src="https://github.com/user-attachments/assets/33eb7c2a-6874-45e9-bd9a-f2abbf7c015b" alt="Mi Ecosistema Tech Visualizado" width="1000" />
+    <img src="https://github.com/user-attachments/assets/7b9228c9-25b1-41a8-ad16-1f4ded40dbc0" alt="Mi Ecosistema Tech Visualizado" width="1000" />
   </a>
-  
+
   <h2>¡Hola! Soy alvaroOrti7 👋</h2>
-  <p><b>Desarrollador Full-Stack | Entusiasta del UI/UX & Web 3D</b></p>
+  <p><b>Desarrollador Full-Stack | Entusiasta del UI/UX, Web 3D (Three.js) & Sistemas (Rust)</b></p>
 </div>
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por la creación de experiencias web modernas, interactivas y escalables. Me desenvuelvo cómodamente en todo el ciclo de desarrollo: desde diseñar interfaces atractivas y en 3D, hasta estructurar bases de datos y orquestar despliegues con contenedores.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por la creación de experiencias web modernas, interactivas y escalables. Me desenvuelvo cómodamente en todo el ciclo de desarrollo: desde diseñar interfaces atractivas y en 3D, hasta estructurar bases de datos, programar sistemas de alto rendimiento con Rust y orquestar despliegues con contenedores.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas que utilizo
 
 **Lenguajes**  
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -32,8 +33,11 @@
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
 **Bases de Datos**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)<img width="1408" height="768" alt="tech-ecosystem-header" src="https://github.com/user-attachments/assets/33ef1f1a-7f1c-4919-9816-0d6a3c8bc8d0" />
+<img width="1408" height="768" alt="tech-ecosystem-header" src="https://github.com/user-attachments/assets/d8d284ad-409a-4f51-bd77-08c583c1cdb6" />
+
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **DevOps & Servidores**  
